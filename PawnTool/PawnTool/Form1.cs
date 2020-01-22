@@ -16,5 +16,10 @@ namespace PawnTool
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Imposible desidiotizar a Frankk, prueba otro año...");
+        }
     }
 }
