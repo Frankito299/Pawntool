@@ -13,8 +13,7 @@ namespace PawnTool
         /// </summary>
         [STAThread]
         static void Main()
-        {    //prueba pero se seeth :sunglasses: (seeth no shet)
-            //prueba
+        {    
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
